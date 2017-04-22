@@ -1,6 +1,6 @@
 #!/bin/sh
 ##############################################
-#this scripts is create by guan at 20170325
+#this scripts is create by guan 
 ##############################################
 #set env
 export PATH=$PATH:/bin:/sbin:/usr/sbin
